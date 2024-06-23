@@ -61,7 +61,7 @@ export default function LoginPage() {
             <button 
            onClick={onLogin}
             className="p-2 border border-gray-300 rounded-lg mb-4">Login here</button>
-            <Link href="/signup">Visit Signup Page</Link>
+            <Link href="/signup">Visit Signup Page From Here</Link>
         </div>
     )
 }
